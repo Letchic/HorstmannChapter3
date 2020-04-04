@@ -1,4 +1,4 @@
-package sequence;
+package com.letchic.sequence;
 
 public interface IntSequence {
      boolean hasNext();

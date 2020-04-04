@@ -1,4 +1,4 @@
-package measurable;
+package com.letchic.measurable;
 
 public class Employee implements Measurable {
     private String name;

@@ -1,4 +1,4 @@
-package runnable;
+package com.letchic.runnable;
 
 public class HelloTask implements Runnable {
     String name;

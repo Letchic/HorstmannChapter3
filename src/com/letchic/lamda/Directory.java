@@ -1,4 +1,4 @@
-package lamda;
+package com.letchic.lamda;
 
 import java.io.File;
 import java.io.FileFilter;

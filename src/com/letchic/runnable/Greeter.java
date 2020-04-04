@@ -1,4 +1,4 @@
-package runnable;
+package com.letchic.runnable;
 
 public class Greeter implements Runnable {
     private String target;

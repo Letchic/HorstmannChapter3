@@ -1,12 +1,14 @@
-import luckysort.LuckySort;
-import runnable.Greeter;
-import lamda.AllFiles;
-import lamda.Directory;
-import lamda.SortFile;
-import measurable.Employee;
-import measurable.Measurable;
-import runnable.HelloTask;
-import sequence.IntSequence;
+package com.letchic;
+
+import com.letchic.luckysort.LuckySort;
+import com.letchic.runnable.Greeter;
+import com.letchic.lamda.AllFiles;
+import com.letchic.lamda.Directory;
+import com.letchic.lamda.SortFile;
+import com.letchic.measurable.Employee;
+import com.letchic.measurable.Measurable;
+import com.letchic.runnable.HelloTask;
+import com.letchic.sequence.IntSequence;
 
 import java.io.File;
 import java.io.FileFilter;

@@ -1,4 +1,4 @@
-package luckysort;
+package com.letchic.luckysort;
 
 import java.util.ArrayList;
 import java.util.Collections;

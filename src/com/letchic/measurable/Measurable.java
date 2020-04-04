@@ -1,4 +1,4 @@
-package measurable;
+package com.letchic.measurable;
 
 public interface Measurable {
     double getMeasure ();
